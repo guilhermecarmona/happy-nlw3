@@ -137,4 +137,4 @@ $ yarn android
 
 ## :closed_book: License
 
-Released in 2020 under the [MIT license](https://github.com/guilhermecarmona/happy-nlw3/LICENSE).
+Released in 2020 under the [MIT license](https://github.com/guilhermecarmona/happy-nlw3/blob/main/LICENSE).
